@@ -1,0 +1,74 @@
+[
+  {
+    "remote": "github",
+    "repository": "Nu3001/device_rockchip_common",
+    "target_path": "device/rockchip/common",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/device_rockchip_rksdk",
+    "target_path": "device/rockchip/rksdk",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/rockdev",
+    "target_path": "rockdev",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/rktools",
+    "target_path": "RKTools",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/rkdocs",
+    "target_path": "RKDocs",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/hardware_rk29_audio",
+    "target_path": "hardware/rk29/audio",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/hardware_rk29_camera",
+    "target_path": "hardware/rk29/camera",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/hardware_rk29_gps",
+    "target_path": "hardware/rk29/gps",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/hardware_rk29_hwcomposer_rga",
+    "target_path": "hardware/rk29/hwcomposer_rga",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/hardware_rk29_jpeghw",
+    "target_path": "hardware/rk29/jpeghw",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/hardware_rk29_libgralloc_ump",
+    "target_path": "hardware/rk29/libgralloc_ump",
+    "revision": "nu3001"
+  },
+  {
+    "remote": "github",
+    "repository": "Nu3001/hardware_rk29_libiep",
+    "target_path": "hardware/rk29/libiep",
+    "revision": "nu3001"
+  },
+]
