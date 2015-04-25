@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/bliss.mk
+	$(LOCAL_DIR)/rk3188.mk
